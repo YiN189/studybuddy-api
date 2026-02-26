@@ -1,0 +1,16 @@
+{
+  "name": "studybuddy-api",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "fresh": "kill -9 $(lsof -t -i:3000) 2>/dev/null; rm -rf .next/dev/lock; next dev",
+    "build": "next build",
+    "start": "next start",
+    "seed": "node --env-file=.env.local src/scripts/seed.js"
+  },
+  "dependencies": {
+    "mongodb": "^7.1.0",
+    "next": "16.1.6"
+  }
+}

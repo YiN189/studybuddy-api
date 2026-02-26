@@ -6,8 +6,9 @@ A full-stack web-based learning management platform that lets students browse co
 
 | Name |
 | --- |
-| <!-- Add your team members here --> |
-| <!-- e.g. Nyi Phyo Ekyaw --> |
+| Nyi Phyo Kyaw |
+| Yoon Hsu Hlaing |
+| Shune Lai Wai |
 
 ## Tech Stack
 

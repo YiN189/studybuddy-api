@@ -360,7 +360,7 @@ This inserts sample users, courses, categories, questions, and reports.
 - `docker-compose.yml` is included in this repo. To run the full stack, clone both repos side by side:
   ```
   project2/
-  ├── studybuddy-api/   ← this repo
+  ├── studybuddy-api/   ← this repo (https://github.com/YiN189/studybuddy-api)
   └── StudyBuddy/       ← frontend repo (https://github.com/Shunelw/StudyBuddy)
   ```
   Then run `docker-compose up --build -d` from inside `studybuddy-api/`.
